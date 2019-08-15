@@ -1,5 +1,5 @@
 # My portfolio
-#### This is an independent project for Ishmael Nkurumwa{13/08/2019}
+#### This project is all about me.
 #### By {Ishmael Nkurumwa}
 
 ## Description
