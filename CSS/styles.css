@@ -1,0 +1,46 @@
+body{
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTVmpS9oIYeYrTzHCNEd5fcm35XG_8j-ahelwulnDCYiDyob0QpQ);
+    background-repeat:no-repeat;
+    background-size:cover;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    color: black;
+    width: 80%;
+    text-justify: auto;
+}
+li{
+display: inline;
+padding: 8px;
+background-color: bisque cover;
+}
+image{
+ max-width:  300px;
+ max-height: 200px;
+}
+nav{
+    position:sticky;
+    top:0;
+    justify-content: space-between 5px;
+    background-blend-mode: color-burn;
+    text-align:center;
+}
+nav>ul>li>a{
+   justify-content: center; 
+}
+nav>ul>li>a:hover{
+    color: blueviolet;
+    background-colo:bisque;
+}
+h1,h2{
+  text-align:center;
+}
+li1{
+        display: inline;
+        padding: 8px;
+        background-color: bisque cover;   
+}
+li1:hover{
+    color: blueviolet;  
+}
