@@ -8,7 +8,7 @@ The IP is all about what I had done since I joined Moringa full time prep class.
 Click on the link provided to check out the actual page
  
 ## Technologies used
-HTML
+HTML and CSS
 ## Contact details.
 In case of any comment or addition or interest in working with me, kindly reach me through the email below;
       nkurumwa51@gmail.com 
