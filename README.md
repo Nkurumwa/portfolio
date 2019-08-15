@@ -12,8 +12,9 @@ HTML CSS
 ## Contact details.
 In case of any comment or addition or interest in working with me, kindly reach me through the email below;
       nkurumwa51@gmail.com 
-## License
-MIT License
+## License 
+
+Under MIT License
 
 Copyright (c) [2019] []
 
