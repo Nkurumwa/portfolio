@@ -5,7 +5,7 @@
 ## Description
 The IP is all about what I had done since I joined Moringa full time prep class. It is written with basic programming skills that I have learned so far.
 ## Setup instructions
-  * Click the fork button on the top right corner of the file.
+Click on the link provided to check out the actual page
  
 ## Technologies used
 HTML CSS
