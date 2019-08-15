@@ -1,4 +1,4 @@
-# My-IP
+# My portfolio
 #### This is an independent project for Ishmael Nkurumwa{13/08/2019}
 #### By {Ishmael Nkurumwa}
 
